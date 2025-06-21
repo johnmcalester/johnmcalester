@@ -2,4 +2,4 @@
 
 👀 I’m a developer and photographer from Nothern California.
 
-🌱 I’m currently learning Vite.
+🌱 I’m currently learning NextJS.
